@@ -1,5 +1,5 @@
 # FoodFirst_Inc._Project
-Change Managemen - sales optimization in an Online Food Delivery Service
+Change Management - sales optimization in an Online Food Delivery Service
 
 ## Project Overview
 FoodFirst Inc.is a food Company that offers menued items to working class Customers, they have 8 locations around the City where they sell to work-in Customers. However in view of increasing competition, Customers demand and the urge to drive revenue, they have decided to venture into food delivery services. This will require a functional website, accommodate an online application for smartphones and computers to facilitate ordering and delivery via despatch ride
