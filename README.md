@@ -18,7 +18,7 @@ FoodFirst Inc.is a food Company that offers menued items to working class Custom
 
 
 ## Aims
--  To develop a functional website ,a smartphone app and designated lines where customers can place orders in order:
+To develop a functional website ,a smartphone app and designated lines where customers can place orders in order:
 
 -  To increase market share and coverage.
 
